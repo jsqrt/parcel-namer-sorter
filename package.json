@@ -1,0 +1,13 @@
+{
+	"name": "parcel-namer-s",
+	"version": "0.1.3",
+	"description": "Parcel plugin s",
+	"main": "index.js",
+	"devDependencies": {},
+	"dependencies": {
+		"@parcel/plugin": "^2.0.1"
+	},
+	"engines": {
+		"parcel": "^2.0.1"
+	}
+}
