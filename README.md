@@ -11,6 +11,6 @@ Important! Don`t forget hit the star https://github.com/lovesossa/parcel-namer-s
 
 ## Authors
 
-- [@lovesossa](https://github.com/lovesossa/parcel-namer-sorter)
+- [@jsqrt](https://github.com/jsqrt/parcel-namer-sorter)
 - [@Glivera-team](https://github.com/glivera-team)
 
