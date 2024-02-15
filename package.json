@@ -1,6 +1,6 @@
 {
 	"description": "Parcel-plugin for sort files in build/dist. Remove hashes from filenames.",
-	"author": "lovesossa",
+	"author": "jsqrt",
 	"license": "MIT",
 	"name": "parcel-namer-sorter",
 	"version": "0.1.4",
