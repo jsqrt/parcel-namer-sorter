@@ -1,4 +1,3 @@
-
 # parcer-namer-sorter
 
 Parcel plugin for file-reconstructing and remove hash in build directory.
@@ -9,8 +8,19 @@ You can see usage example in [this template](https://github.com/glivera-team/gli
 
 Important! Don`t forget hit the star https://github.com/jsqrt/parcel-namer-sorter
 
+## Usage
+
+Your sources must be in `src` directory.
+Declare plugin in your `.parcelrc`:
+
+```
+"namers": [
+  "parcel-namer-sorter",
+  "..."
+]
+```
+
 ## Authors
 
 - [@jsqrt](https://github.com/jsqrt)
 - [@Glivera-team](https://github.com/glivera-team)
-
