@@ -1,7 +1,7 @@
 
 # parcer-namer-sorter
 
-Parcel plugin for parcel for file-reconstructing and remove hash in build directory.
+Parcel plugin for file-reconstructing and remove hash in build directory.
 Hashes will stay in dist for optimization reasons.
 
 Created for vanilla HTML/CSS bundles.
