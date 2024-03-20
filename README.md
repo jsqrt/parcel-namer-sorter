@@ -1,7 +1,7 @@
 
 # parcer-namer-sorter
 
-Plugin for parcel for file-reconstructing and remove hash in build directory.
+Parcel plugin for parcel for file-reconstructing and remove hash in build directory.
 Hashes will stay in dist for optimization reasons.
 
 Created for vanilla HTML/CSS bundles.
@@ -11,6 +11,6 @@ Important! Don`t forget hit the star https://github.com/jsqrt/parcel-namer-sorte
 
 ## Authors
 
-- [@jsqrt](https://github.com/jsqrt/parcel-namer-sorter)
+- [@jsqrt](https://github.com/jsqrt)
 - [@Glivera-team](https://github.com/glivera-team)
 
