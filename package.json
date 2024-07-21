@@ -8,8 +8,5 @@
 	"devDependencies": {},
 	"dependencies": {
 		"@parcel/plugin": "2.0.1"
-	},
-	"engines": {
-		"parcel": "2.0.1"
 	}
 }
