@@ -7,9 +7,9 @@
 	"main": "index.js",
 	"devDependencies": {},
 	"dependencies": {
-		"@parcel/plugin": "^2.0.1"
+		"@parcel/plugin": "2.0.1"
 	},
 	"engines": {
-		"parcel": "^2.0.1"
+		"parcel": "2.0.1"
 	}
 }
